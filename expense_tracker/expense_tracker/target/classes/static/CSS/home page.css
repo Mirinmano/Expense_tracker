@@ -1,0 +1,97 @@
+
+*{
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.bod{
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 10px;
+    border: 3px solid brown;
+    box-shadow: 10px;
+    border-radius: 20px;
+    background-color: pink;
+    font-family: Trebuchet MS ;
+    color: brown;
+}
+
+ul{
+    text-align: center;
+    
+}
+ul li{
+    display: inline-block;
+    line-height: 50px;
+    margin: 20px;
+}
+ul li a{
+    color: brown;
+    font-size: 17px;
+    padding: 7px;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+a:hover{
+    
+    background-color:brown;
+    color: pink;
+}
+h1{
+  
+    padding: 40px;
+    width:fit-content;
+    background-color: #89B9AD;
+    color: brown;
+    float: left;
+    border-radius: 20px;
+}
+h2{
+    padding: 50px;
+    width:fit-content;
+    background-color: #89B9AD;
+    color: brown;
+    float: left;
+    border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px 8px 10px #888888;
+    
+}
+nav{
+    margin-top: 100px;
+    background: #C7DCA7;
+    height: 80px;
+    width: 100%;
+    border-radius: 20px;
+    
+}
+button{
+    background-color: #FFEBD8;
+    color: #FFC5C5;
+    width: auto;
+    padding:10px;
+    border-radius: 10%;
+    float: right;
+}
+button:hover{
+    background-color: rgb(238, 167, 144) ;
+    color: brown;
+}
+table{
+    width: 75%;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    
+}
+
+p{
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
